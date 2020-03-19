@@ -1,0 +1,10 @@
+name: theshowapp
+title:
+username:
+account: metlover
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1968540
+bundleId: 2900038
+url: https://metlover.shinyapps.io/theshowapp/
+when: 1584659953.06388
